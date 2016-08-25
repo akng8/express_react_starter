@@ -1,0 +1,23 @@
+{
+  "name": "express_react_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akng8/express_react_starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akng8/express_react_starter/issues"
+  },
+  "homepage": "https://github.com/akng8/express_react_starter#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "helmet": "^2.1.2"
+  }
+}
